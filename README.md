@@ -24,10 +24,10 @@ Layer: 3	POWER
 Layer: 4	SIGNAL
 
 ### PCB Schematic:
-
+![image alt](https://github.com/NasserTaqi/STM32F0_Multi_Peripheral_PCB/blob/2d164497d46371f4c2ece9e78be70492ead3c142/STM32F0_PCB1/PCB_Images/Schematic_Full.png)
 
 ### PCB Layout:
-
+![image alt](https://github.com/NasserTaqi/STM32F0_Multi_Peripheral_PCB/blob/2d164497d46371f4c2ece9e78be70492ead3c142/STM32F0_PCB1/PCB_Images/PCB_layout.png)
 
 ### PCB 3D view:
 ![image alt](https://github.com/NasserTaqi/STM32F0_Multi_Peripheral_PCB/blob/2fc5ef7b82802ef16253c8a2220a61d50fda5a47/STM32F0_PCB1/PCB_Images/PCB_3D.png)

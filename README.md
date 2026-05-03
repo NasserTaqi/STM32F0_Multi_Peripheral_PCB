@@ -19,6 +19,9 @@ This is a project of an STM32F0 PCB which is a mixed-signal board that includes 
 It is a 4-layer board with the following stack-up:
 
 Layer: 1	SIGNAL
+
 Layer: 2	GND
+
 Layer: 3	POWER
+
 Layer: 4	SIGNAL

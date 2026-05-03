@@ -1,7 +1,7 @@
 # STM32F0_Multi_Peripheral_PCB
 This is a PCB project built around an STM32F0 which includes multiple peripherals.
 
-## Components:
+## Components
 -	STM32F0 MCU
 -	USB 2.0 connection + ESD protection
 -	3.3V power regulator LDO
@@ -13,12 +13,15 @@ This is a PCB project built around an STM32F0 which includes multiple peripheral
 -	RGB LED
 -	SWD Connector
 
-## Board Setup:
+## Board Setup
 It is a 4-layer board with the following stack-up:
 
 Layer: 1	SIGNAL
+
 Layer: 2	GND
+
 Layer: 3	POWER
+
 Layer: 4	SIGNAL
 
 ### PCB Schematic:

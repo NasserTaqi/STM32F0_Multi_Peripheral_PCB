@@ -1,5 +1,5 @@
 # STM32F0_Multi_Peripheral_PCB
-This is a project built around an STM32F0 PCB which includes multiple peripherals.
+This is a PCB project built around an STM32F0 which includes multiple peripherals.
 
 ## Components:
 -	STM32F0 MCU

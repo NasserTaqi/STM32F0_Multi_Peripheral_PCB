@@ -1,5 +1,5 @@
 # STM32F0_Multi_Peripheral_PCB
-This is a project of an STM32F0 PCB which is a mixed-signal board that includes multiple peripherals and the following components:
+This is a project built around an STM32F0 PCB which includes multiple peripherals.
 
 ## Components:
 -	STM32F0 MCU

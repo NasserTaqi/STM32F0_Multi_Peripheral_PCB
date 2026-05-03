@@ -1,0 +1,64 @@
+### Footprint positions - created on 2026-05-03T18:02:20+0200 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                          Package                                                       PosX       PosY       Rot  Side
+C1        1uF                          C_0805_2012Metric                                          29.4132    34.6056  180.0000  top
+C2        0.1uF                        C_0805_2012Metric                                           9.2011    14.7066    0.0000  top
+C3        1uF                          C_0603_1608Metric                                          21.9958    22.1819  -90.0000  top
+C4        0.1uF                        C_0603_1608Metric                                          31.1398    22.1311  -90.0000  top
+C5        10uF                         C_0805_2012Metric                                          34.3408     9.3472   90.0000  top
+C6        1uF                          C_0805_2012Metric                                          41.1632    21.0710  -90.0000  top
+C7        1uF                          C_0805_2012Metric                                          44.5160    18.8468  180.0000  top
+C8        1uF                          C_0805_2012Metric                                          14.6812    21.1836   90.0000  top
+C9        0.1uF                        C_0603_1608Metric                                          31.1398    26.6523   90.0000  top
+C10       2.2uF                        C_0805_2012Metric                                          18.4150    38.5729  180.0000  top
+C11       0.1uF                        C_0805_2012Metric                                          16.8910    40.9859  180.0000  top
+C13       0.1uF                        C_0805_2012Metric                                          17.6530    44.2879   90.0000  top
+C14       1uF                          C_0805_2012Metric                                          54.5592    13.0048  180.0000  top
+C15       0.1uF                        C_0805_2012Metric                                          44.3992    42.4688  180.0000  top
+C16       47uF                         C_0805_2012Metric                                          44.3992    40.1828  180.0000  top
+C17       1uF                          C_0805_2012Metric                                          59.4868    12.8016  180.0000  top
+D1        LED                          LED_0805_2012Metric                                        42.2150    26.7716  180.0000  top
+D2        LED                          LED_0805_2012Metric                                        40.5251    10.1138    0.0000  top
+D3        LED                          LED_0805_2012Metric                                        64.2620     8.2042    0.0000  top
+IC1       BQ24040DSQR                  SON40P200X200X80-11N                                       59.4528    10.1472    0.0000  top
+J1        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal    27.4122     3.6322    0.0000  top
+J2        B2B-PH-K-S_LF__SN_           SHDR2W50P0X200_1X2_590X450X600P                            62.1952    20.3112  180.0000  top
+J3        Conn_02x05_Odd_Even          PinHeader_2x05_P1.27mm_Vertical_SMD                        62.8708    38.1508    0.0000  top
+J4        Conn_01x02                   PinHeader_1x02_P2.54mm_Vertical                            50.0838    36.2204   90.0000  top
+J5        Conn_01x02                   PinHeader_1x02_P2.54mm_Vertical                            61.3206    28.6512   90.0000  top
+J6        Conn_01x02                   PinHeader_1x02_P2.54mm_Vertical                            50.0888    28.6512   90.0000  top
+J7        Conn_01x02                   PinHeader_1x02_P2.54mm_Vertical                            46.9392     5.5880    0.0000  top
+LED1      ASCB-JTC2-0A308              ASCBJTC20A308                                               5.7598    36.9920  -90.0000  top
+Q1        BSS138                       SOT-23                                                     40.4876    13.8453   90.0000  top
+R1        4.7k                         R_0805_2012Metric                                          20.4724    31.4452    0.0000  top
+R2        10k                          R_0805_2012Metric                                           9.2011    12.1666  180.0000  top
+R3        10k                          R_0805_2012Metric                                          16.2833    12.1158  180.0000  top
+R4        5.1k                         R_0805_2012Metric                                          31.6992    11.6840   90.0000  top
+R5        5.1k                         R_0805_2012Metric                                          23.1648    11.0236   90.0000  top
+R6        1k                           R_0805_2012Metric                                          42.2150    24.2714  180.0000  top
+R7        330                          R_0805_2012Metric                                          41.5036     6.9088   90.0000  top
+R8        10k                          R_0805_2012Metric                                          14.6812    26.1366  -90.0000  top
+R9        10k                          R_0805_2012Metric                                           5.7912    24.6361   90.0000  top
+R10       4.7k                         R_0805_2012Metric                                          20.4724    33.7312    0.0000  top
+R11       10k                          R_0805_2012Metric                                          24.1300    42.0370   90.0000  top
+R12       1k                           R_0805_2012Metric                                           9.5758    39.3700  180.0000  top
+R13       1k                           R_0805_2012Metric                                           9.5504    35.8140    0.0000  top
+R14       1k                           R_0805_2012Metric                                           5.7658    33.6550    0.0000  top
+R15       1.5k                         R_0805_2012Metric                                          61.8998    15.2400    0.0000  top
+R17       2k                           R_0805_2012Metric                                          57.2008     5.9944   90.0000  top
+R18       1k                           R_0805_2012Metric                                          54.8132     5.9944   90.0000  top
+R19       10k                          R_0805_2012Metric                                          58.0136    15.2908    0.0000  top
+R20       10k                          R_0805_2012Metric                                          54.7624    16.2052  -90.0000  top
+R21       100k                         R_0805_2012Metric                                          64.2112    10.3124  180.0000  top
+SW1       SW_Push                      SW_SPST_PTS810                                              9.3726     7.2136  -90.0000  top
+SW2       SW_Push                      SW_SPST_PTS810                                             16.3068     7.1628  -90.0000  top
+U1        STM32F042F6Px                TSSOP-20_4.4x6.5mm_P0.65mm                                 26.6192    24.2824  -90.0000  top
+U2        LP5912-3.3DRV                WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias             44.2470    21.4100    0.0000  top
+U3        SST25VF080B-50-4x-S2Ax       SOIC-8_5.3x5.3mm_P1.27mm                                   10.3632    23.9776  -90.0000  top
+U4        D3V3XA4B10LP                 Diodes_UDFN-10_1.0x2.5mm_P0.5mm                            28.6672    10.6999   90.0000  top
+U5        ICM-20602                    LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y                       20.8280    42.8244   90.0000  top
+U6        MCP23008-xML                 QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm                        33.1881    38.4556  180.0000  top
+U7        DRV8837C                     WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm                        47.6384    41.2140   90.0000  top
+## End

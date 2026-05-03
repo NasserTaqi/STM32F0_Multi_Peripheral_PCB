@@ -7,11 +7,10 @@ This is a PCB project built around an STM32F0 which includes multiple peripheral
 -	3.3V power regulator LDO
 -	Li-Ion/ Li-Pol battery charger
 -	External flash memory
--	A GPIO extender
+-	GPIO extender
 -	Accelerometer + Gyroscope IC
 -	Motor Controller IC
 -	RGB LED
--	Power-ON LED
 -	SWD Connector
 
 ## Board Setup:

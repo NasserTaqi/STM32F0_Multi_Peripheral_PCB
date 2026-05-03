@@ -3,7 +3,7 @@ This is a PCB project built around an STM32F0 which includes multiple peripheral
 
 ## Components
 -	STM32F0 MCU
--	USB 2.0 connection + ESD protection
+-	USB C 2.0 connection + ESD protection
 -	3.3V power regulator LDO
 -	Li-Ion/ Li-Pol battery charger
 -	External flash memory
